@@ -1,3 +1,3 @@
-# angular-bqnfns-huqxfg
+# angular-sales-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-bqnfns-huqxfg)
+App made to train angular
